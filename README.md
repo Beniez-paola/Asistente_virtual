@@ -5,7 +5,9 @@
 Un asistente virtual para soporte técnico es una herramienta poderosa que puede mejorar la experiencia del cliente, reducir costos y aumentar la eficiencia del equipo de soporte técnico.
 
 Nombre: Paola Benitez Solorzano - 20210549
+
 Materia: Patrones de diseño 
+
 Maestro: Rene Solis Reyes
 
 ## 1. Definición de Requisitos
