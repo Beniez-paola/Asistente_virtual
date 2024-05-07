@@ -2,14 +2,16 @@
 
 # Sistema de asistente virtual con NPL para soporte tecnico y personalizado ( Paloma )
 
-Un asistente virtual para soporte técnico es una herramienta poderosa que puede mejorar la experiencia del cliente, reducir costos y aumentar la eficiencia del equipo de soporte técnico.
-
+## Información del usuario
 Nombre: Paola Benitez Solorzano - 20210549
 
 Materia: Patrones de diseño 
 
 Maestro: Rene Solis Reyes
 
+## Información del proyecto
+
+Un asistente virtual para soporte técnico es una herramienta poderosa que puede mejorar la experiencia del cliente, reducir costos y aumentar la eficiencia del equipo de soporte técnico.
 ## 1. Definición de Requisitos
 
 **📝 ⚙️ Requisitos Funcionales:**
